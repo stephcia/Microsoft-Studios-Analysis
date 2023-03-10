@@ -48,17 +48,17 @@ Our data sets we're a combination of those provided by the client and also data 
 - **Content/IP** - Microsoft will be purchasing roughly 25% of top viewed IP's on Twitch. A further breakdown of which of the popular IP's are worth investing. 
 
 ![img](./images/box_office_revenue_share.png)
-![img](./images/viewershipbreakdown.png)
+![img](./images/movie_genre_box_office.png)
 
 - **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 49% of all revenue for movies from 1995 - 2022.
 
-![img](./images/movie_genre_box_office.png)
-![img](./blob/main/EachIP.png)
+![img](/EachIP.png)
+![img](/viewershipbreakdown.png)
 
 - **Ratings & Runtime**- The most succesful film's by rating fall into the PG and PG13 additionally they also have the characteristics of 120-160 minutes. 
 
-![img](./images/Box vs Runtime.png)
-![img](./images/Box Office Success vs Runtime.png)
+![img](./images/box_office_revenue_share.png)
+![img](./images/movie_genre_box_office.png)
 
 ## Conclusions:
 
