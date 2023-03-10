@@ -1,11 +1,15 @@
 # Microsoft Studio Development Analysis
 
-![img](./images/Activision-Blizzard-Microsoft.jpg)
+![img](https://www.inf1ntech.com/wp-content/uploads/2022/12/Microsoft-Activision-Blizzard.png)
 
 # Authors: 
+
 Stephanie Ciaccia
+<br>
 Luke Sims
+<br>
 Gideon Miles
+<br>
 
 ## Overview
 
@@ -13,7 +17,7 @@ Our hypothetical client, Microsoft Studios, has expressed its intention to estab
 
 ## Business Problem
 
-Microsoft has observed the trend of large tech companies producing original video content and has expressed an interest in establishing a presence by creating a new studio, despite their limited experience in the film industry. 
+Microsoft has observed the trend of large tech companies producing original video content and has an interest in establishing a presence by creating a new studio, despite their limited experience in the film industry. 
 
 Our team is performing a comprehensive analysis of Microsoft and the film industry to determine the the key variables that Microsoft should consider while producing a profitable and successful film.
 
@@ -30,7 +34,7 @@ The Twitch data (add information here)
 
 ## Methods
 
-We used dewscriptive statistics, including measures of central tendency and variability to represent out findings. Since most of our dataset key values varied (ex: title names and genres were not consistent), we only combined our datasets
+We used descriptive statistics, including measures of central tendency and variability to represent out findings. Since most of our dataset key values varied (ex: title names and genres were not consistent), we only combined our datasets
 
 
 ## Results
@@ -40,7 +44,7 @@ We used dewscriptive statistics, including measures of central tendency and vari
 
 - **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 49% of all revenue for movies from 1995 - 2022.
 
-![img](./images/movie_genre_movie_data.jpg)
+![img](./images/movie_genre_box_office.jpg)
 
 
 - **Ratings & Runtime** Luke - add results and graph here
