@@ -44,7 +44,7 @@ We used descriptive statistics, including measures of central tendency and varia
 
 - **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 49% of all revenue for movies from 1995 - 2022.
 
-![img](./images/movie_genre_box_office.jpg)
+![img](./images/movie_genre_box_office.png)
 
 
 - **Ratings & Runtime** Luke - add results and graph here
