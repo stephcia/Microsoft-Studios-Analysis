@@ -6,9 +6,9 @@
 
 Stephanie Ciaccia
 <br>
-Luke Sims
-<br>
 Gideon Miles
+<br>
+Luke Sims
 <br>
 
 ## Overview
@@ -75,6 +75,6 @@ Furthermore, we recommend conducting thorough research on Microsoft's intellectu
 
 ## For more information:
 
-See the fully analysis in the [Jupyter notebook](https://github.com/stephcia/Microsoft-Studios-Analysis.git) or to review the presentation.
+See the fully analysis in the [Jupyter notebook](https://github.com/stephcia/Microsoft_Film_Project) or to review the presentation.
 
 
