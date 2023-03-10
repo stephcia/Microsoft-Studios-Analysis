@@ -1,63 +1,78 @@
-# Microsoft_Film_Project
+# Microsoft Studio Development Analysis
 
-Authors: 
+![img](./images/Activision-Blizzard-Microsoft.jpg)
+
+# Authors: 
 Stephanie Ciaccia
 Luke Sims
 Gideon Miles
 
-Overview
+## Overview
 
-Coding Languages Used: Python and SQL
-Packages: Pandas, Numpy, MatplotLib, Requests, Json, Gzip, Zipfile, CSV, datetime, Sqlite3, Seaborn, RelativeDelta, Datetime
+Our hypothetical client, Microsoft Studios, has expressed its intention to establish itself as a major player in the film industry. As part of this pursuit, they have supplied us with box office film datasets to conduct exploratory data analysis and extract valuable business insights for internal stakeholders. In addition, Microsoft Studios has tasked us with formulating three recommendations to aid in the creation of an effective strategy for their entry into this competitive market.
 
-Synposis: This project was completed as part of Flatiron's Data Science program. It's intent was to create a realistic set of recommendations based on a ficitious organization (Microsoft Film Studios). 
+## Business Problem
 
-- We first used Data Sets provided by Flatiron
-- We cleaned 
+Microsoft has observed the trend of large tech companies producing original video content and has expressed an interest in establishing a presence by creating a new studio, despite their limited experience in the film industry. 
 
-Business Problem
+Our team is performing a comprehensive analysis of Microsoft and the film industry to determine the the key variables that Microsoft should consider while producing a profitable and successful film.
 
 
+## Data
 
-Data
+Our film data was collected through publicly available datasets including The Numbers, TMBD API, (add your datasets here). 
 
+The data sets provide a variety of information on global box office films including title, genre, ratings, budget, domestic and worldwide box office earning. 
 
-
-
-Methods
+The Twitch data (add information here)
 
 
 
+## Methods
 
-Results
-
-Gideon - add results and graph here
-
+We used dewscriptive statistics, including measures of central tendency and variability to represent out findings. Since most of our dataset key values varied (ex: title names and genres were not consistent), we only combined our datasets
 
 
+## Results
 
-The most profitable film genres are action and adventure. 
+- **Content/IP** Gideon - add results and graph here
 
 
 
 
-Conclusions
+- **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 49% of all revenue for movies from 1995 - 2022.
+
+![img](./images/movie_genre_movie_data.jpg)
+
+
+- **Ratings & Runtime** Luke - add results and graph here
 
 
 
 
-Next steps:
+## Conclusions:
 
-We would suggest using Nielsen, the global leader in audience insight, data, and analytics to pull additional data and futher examine the television and film landscape. The datasets that the team had access to were limited and based on publicly available datasets. 
+The analysis lead to three recommendations for Microsoft Studios to consider while developing a box office film:
 
-Further analysis of film studios, production companies, top producers, directors, and talent should be made to ensure Microsoft Film's first film has the production and creative talent talent needed for success.
+- **Content/IP** - Microsoft should utilize its extensive portfolio of popular video game intellectual property to create content. With the impending acquisition of Activision, Microsoft will make up approximately 28% of all viewers on Twitch, one of the top 5 major live streaming platforms, Microsoft is positioned to significantly enhance its market share in the video game space.
 
-In addition, to ensure better accuracy of data we would suggest using IMBD API (Amazon Web Server) and Nielsen data to pull additional data sets to examine the film, television, and media landscape to ensure the investment in making a box office film is the most lucrative for the business.
+- **Genre** - Based on the analysis of the top-grossing film genres spanning from 1915 to 2022, it is advisable that Microsoft Studios focuses on utilizing their intellectual properties to produce Action-Adventure Films, which have historically been the most lucrative genres. This approach is likely to result in maximum profitability for the company.
 
-For more information:
+- **Ratings & Runtime** - To optimize their market share and appeal to a wide audience, Microsoft should produce a film with a rating falling within the G to PG-13 range. Additionally, based on our data, 100 to 120 minutes have the highest box office earnings. 
 
-See the fully analysis in the Jupyter notebook or to review the presentation.
 
-For additional information, please contact the team on Linkedin:
+
+## Next steps:
+
+The datasets employed for our analysis were pulled from publicly available sources, and do not include cross-platform measurement data. In this regard, we recommend the utilization of Nielsen, a leading global provider of audience insight, data, and analytics, to obtain additional data and gain deeper insights into the television, film, content and digital landscape. 
+
+To succeed, Microsoft Studio must maintain exceptional creative standards and collaborate with talented individuals capable of producing original and captivating narratives. To this end, executives spearheading the studio's efforts should allocate significant time and resources towards recruiting a robust team of production executives, thereby establishing the studio for optimal success. It is imperative to seek out exceptional talent from major studios and production companies, with a focus on top-tier producers, directors, and writers who possess in-depth industry knowledge.
+
+Furthermore, we recommend conducting thorough research on Microsoft's intellectual property portfolio and revenue streams to evaluate the feasibility of implementing multi-platform strategies that can complement the production of film and television content.
+
+
+## For more information:
+
+See the fully analysis in the [Jupyter notebook](https://github.com/stephcia/Microsoft-Studios-Analysis.git) or to review the presentation.
 
 
