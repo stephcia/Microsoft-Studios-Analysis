@@ -58,8 +58,8 @@ Our data sets we're a combination of those provided by the client and also data 
 
 - **Ratings & Runtime**- The most succesful film's by rating fall into the PG and PG13 additionally they also have the characteristics of 120-160 minutes. 
 
-![img](./images/Box_vs_Runtime.png)
-![img](./images/Box_Office_Success_vs_Runtime.png)
+![img](./images/BoxvsRuntime.png)
+![img](./images/BoxOfficeSuccessvsRuntime.png)
 
 ## Conclusions:
 
