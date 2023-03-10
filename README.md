@@ -6,9 +6,9 @@
 
 Stephanie Ciaccia
 <br>
-Luke Sims
-<br>
 Gideon Miles
+<br>
+Luke Sims
 <br>
 
 ## Overview
@@ -44,7 +44,7 @@ We used descriptive statistics, including measures of central tendency and varia
 
 - **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 49% of all revenue for movies from 1995 - 2022.
 
-![img](./images/movie_genre_box_office.jpg)
+![img](./images/movie_genre_box_office.png)
 
 
 - **Ratings & Runtime** Luke - add results and graph here
@@ -75,6 +75,6 @@ Furthermore, we recommend conducting thorough research on Microsoft's intellectu
 
 ## For more information:
 
-See the fully analysis in the [Jupyter notebook](https://github.com/stephcia/Microsoft-Studios-Analysis.git) or to review the presentation.
+See the fully analysis in the [Jupyter notebook](https://github.com/stephcia/Microsoft_Film_Project) or to review the presentation.
 
 
