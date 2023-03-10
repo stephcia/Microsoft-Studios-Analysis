@@ -47,8 +47,8 @@ Our data sets we're a combination of those provided by the client and also data 
 
 - **Content/IP** - Microsoft will be purchasing roughly 25% of top viewed IP's on Twitch. A further breakdown of which of the popular IP's are worth investing. 
 
-![img](/EachIP.png)
-![img](/viewershipbreakdown.png)
+![img](/images/EachIP.png)
+![img](/images/viewershipbreakdown.png)
 
 
 - **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 86% of all revenue for movies from 1995 - 2025, though Comedy is the top produced genre. 
@@ -64,7 +64,7 @@ Our data sets we're a combination of those provided by the client and also data 
 ## Conclusions:
 
 
-- **Content/IP** - Microsoft should utilize its extensive portfolio of popular video game intellectual property to create content. Specifically in conjuction with their newest acquision of Activision/Blizzard, Microsoft will make up approximately 28% of all viewers on Twitch, one of the top 5 major live streaming platforms, Microsoft is positioned to significantly enhance its market share in the video game space.
+- **Content/IP** - Microsoft should utilize its extensive portfolio of popular video game intellectual property to create content. Specifically in conjuction with their newest acquision of Activision/Blizzard, Microsoft will make up approximately 25% of all viewers on Twitch, one of the top 5 major live streaming platforms, Microsoft is positioned to significantly enhance its market share in the video game space.
 
 - **Genre** - Based on the analysis of the top-grossing film genres spanning from 1915 to 2022, it is advisable that Microsoft Studios focuses on utilizing their intellectual properties to produce Action-Adventure Films, which have historically been the most lucrative genres. This approach is likely to result in maximum profitability for the company.
 
