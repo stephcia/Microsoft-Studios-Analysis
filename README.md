@@ -68,7 +68,7 @@ Our data sets we're a combination of those provided by the client and also data 
 
 - **Genre** - Based on the analysis of the top-grossing film genres spanning from 1915 to 2022, it is advisable that Microsoft Studios focuses on utilizing their intellectual properties to produce Action-Adventure Films, which have historically been the most lucrative genres. This approach is likely to result in maximum profitability for the company.
 
-- **Ratings & Runtime** - To optimize their market share and appeal to a wide audience, Microsoft should produce a film with a rating falling within the G to PG-13 range. Also supported by the evidence is that microsoft film studios should structure it's content to have a runtime of 120 to 160 to have the highest success and box office earnings. 
+- **Ratings & Runtime** - To optimize their market share and appeal to a wide audience, Microsoft should produce a film with a rating falling within the PG to PG-13 range. Also supported by the evidence is that microsoft film studios should structure it's content to have a runtime of 120 to 160 to have the highest success and box office earnings. 
 
 
 
