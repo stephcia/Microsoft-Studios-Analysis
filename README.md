@@ -12,7 +12,7 @@ Luke Sims
 <br>
 ## Overview
 
-Microsoft has decided to launch Microsoft Studios as a way to tell the stories of their larger brand and it's subsidaries.As part of this pursuit they have decided to contract us conduct an exploratory data analysis and extract valuable business insights for internal stakeholders, production and creative teams. From our research and given datasets and indepdently sourced findings, we have come to make three data backed recommendations to strongly enter this competitive market with effective strategy.
+Microsoft has decided to launch Microsoft Studios as a way to tell the stories of their larger brand and it's subsidaries. As part of this pursuit they have decided to contract us conduct an exploratory data analysis and extract valuable business insights for internal stakeholders, production and creative teams. From our research and given datasets and indepdently sourced findings, we have come to make three data backed recommendations to strongly enter this competitive market with effective strategy.
 
 ## Business Problem
 
@@ -28,7 +28,7 @@ What is the style the content should be written in (rated G to R)? What runtime 
 
 ## Data
 
-Our film data was collected through publicly available datasets including The Numbers, TMBD API, (add your datasets here). 
+Our film data was collected through publicly available datasets including The Numbers, TMBD API, and Box Office Mojo.
 
 The original data sets provided a variety of information on global box office films including title, genre, ratings, budget, domestic and worldwide box office earning. 
 
@@ -51,10 +51,10 @@ Our data sets we're a combination of those provided by the client and also data 
 ![img](/viewershipbreakdown.png)
 
 
-- **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 49% of all revenue for movies from 1995 - 2022.
+- **Genre** -The highest-grossing movie genres by worldwide box office are action and adventure. Action and adventure films make up 86% of all revenue for movies from 1995 - 2025, though Comedy is the top produced genre. 
 
 ![img](./images/box_office_revenue_share.png)
-![img](./images/movie_genre_box_office.png)
+![img](./images/box_office_genre_market_share.png)
 
 - **Ratings & Runtime**- The most succesful film's by rating fall into the PG and PG13 additionally they also have the characteristics of 120-160 minutes. 
 
