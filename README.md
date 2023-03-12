@@ -12,19 +12,15 @@ Luke Sims
 <br>
 ## Overview
 
-Microsoft has decided to launch Microsoft Studios as a way to tell the stories of their larger brand and it's subsidaries. As part of this pursuit they have decided to contract us conduct an exploratory data analysis and extract valuable business insights for internal stakeholders, production and creative teams. From our research and given datasets and indepdently sourced findings, we have come to make three data backed recommendations to strongly enter this competitive market with effective strategy.
+Microsoft has decided to launch Microsoft Studios as a way to tell the stories of their larger brand and it's subsidaries. As part of this pursuit they have decided to contract us to conduct an exploratory data analysis and extract valuable business insights for internal stakeholders, production and creative teams. From our research and given datasets and indepdently sourced findings, we have come to make three data backed recommendations to strongly enter this competitive market with effective strategy.
 
 ## Business Problem
 
-As a new division it’s important for Microsoft Films to establish Market Credibility and bring a net positive ROI to itself and the larger organization. There concerns are: 
+As a new division it’s important for Microsoft Films to establish market credibility and bring a net positive ROI to itself and the larger organization. There concerns are: 
 
-What are the variables to making a highly profitable and overall successful film? 
+What are the variables to making a highly profitable and overall successful film? From initial research we found Microsoft is in the process of a major acquisition of a game studio called, Activision/Blizzard, recognizing the opportunity for multi-platform growth (Video Games, Series and Movies) we set out to understand: 
 
-From initial research we found Microsoft is in the process of a major acquisition of a game studio called, Activision/Blizzard, recognizing the opportunity for multi-platform growth (Video Games, Series and Movies) we set out to understand: 
-
-Is there enough engagement to justify creating a video game franchise, if so which? 
-Which Genre is the most successful? Are there any specific subgenres we could use to increase marketability?
-What is the style the content should be written in (rated G to R)? What runtime best keeps people engaged? 
+Is there enough engagement to justify creating a video game franchise, if so which? Which Genre is the most successful? Are there any specific subgenres we could use to increase marketability? What is the style the content should be written in (rated G to R)? What runtime best keeps people engaged? 
 
 ## Data
 
